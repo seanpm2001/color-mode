@@ -4,7 +4,7 @@
   "description": "Dark and Light mode for Nuxt with auto detection",
   "repository": "nuxt-community/color-mode-module",
   "license": "MIT",
-  "packageManager": "pnpm@8.11.0",
+  "packageManager": "pnpm@8.12.1",
   "contributors": [
     {
       "name": "Nuxt Team"
@@ -47,13 +47,13 @@
     "@nuxt/test-utils": "^3.8.1",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@types/lodash.template": "^4.5.3",
-    "@typescript-eslint/parser": "^6.13.1",
+    "@typescript-eslint/parser": "^6.15.0",
     "@vitest/coverage-v8": "^0.34.6",
-    "eslint": "^8.55.0",
+    "eslint": "^8.56.0",
     "husky": "8.0.3",
     "nuxt": "^3.8.2",
     "standard-version": "^9.5.0",
-    "typescript": "^5.3.2",
+    "typescript": "^5.3.3",
     "vitest": "^0.34.6"
   }
 }
